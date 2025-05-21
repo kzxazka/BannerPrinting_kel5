@@ -321,7 +321,7 @@ $production_text = getStatusText($order['production_status']);
     </style>
 </head>
 <body>
-<?php include('../view/header.php'); ?>
+<?php include('./view/header.php'); ?>
 
 <div class="container my-5">
     <div class="row justify-content-center">

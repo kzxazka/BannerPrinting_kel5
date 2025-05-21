@@ -41,7 +41,7 @@ try {
 </head>
 
 <body>
-    <?php include('../view/header.php'); ?>
+    <?php include ('./view/header.php'); ?>
 
     <!-- Hero Section -->
     <section class="hero">

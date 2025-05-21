@@ -1,5 +1,6 @@
 <?php
-include(__DIR__ . '/../config.php');
+session_start();
+require_once '../config.php';
 ?>
 
 <header>

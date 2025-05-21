@@ -150,7 +150,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </style>
 </head>
 <body>
-    <?php include('../view/header.php'); ?>
+    <?php include('./view/header.php'); ?>
     
     <div class="container mt-5">
         <!-- Progress Bar -->
