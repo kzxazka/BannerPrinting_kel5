@@ -69,8 +69,8 @@ Untuk pengembangan lokal, gunakan XAMPP.
 Buka browser dan akses
 Untuk pengembangan lokal, gunakan XAMPP.
 Buka browser dan akses
-Buka browser dan akses URL_ADDRESS/danis-printing/user/index-update.php untuk melihat website
-Buka browser dan akses URL_ADDRESS/danis-printing/user/index-update.php untuk melihat website.
+Buka browser dan akses URL_ADDRESS/DanisPrinting_kel5/user/index-update.php untuk melihat website
+Buka browser dan akses URL_ADDRESS/DanisPrinting_kel5/user/index-update.php untuk melihat website.
 
 ## Kontribusi
 Kontribusi sangat diterima! Jika Anda ingin berkontribusi pada proyek ini, silakan buka issue atau submit pull request.
