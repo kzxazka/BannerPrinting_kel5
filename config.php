@@ -8,6 +8,6 @@ if ($conn->connect_error) {
     die("Koneksi gagal: " . $conn->connect_error);
 }
 
-$base_url = "/printproject";
+$base_url = "/BannerPrinting_kel5";
 
 ?>

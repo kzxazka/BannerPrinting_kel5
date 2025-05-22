@@ -46,8 +46,6 @@ $result = $stmt->get_result();
 </head>
 <body>
     <div class="container mt-5">
-        <h2 class="mb-4">Riwayat Pesanan</h2>
-
         <!-- Filter Status -->
         <div class="mb-4">
             <div class="btn-group" id="status-filters">
